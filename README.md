@@ -1,6 +1,6 @@
 ### Olá, sou o Lucas Guerra de Macedo 👋
 
-👨‍💻 **Estudante de Ciência da Computação** (2º semestre) focado em construir uma base sólida em engenharia de software e lógica computacional. Busco oportunidades como **Desenvolvedor Júnior / Estágio** ou **Suporte de TI**.
+👨‍💻 **Estudante de Engenharia de Software** focado em construir uma base sólida em lógica computacional. Busco oportunidades como **Desenvolvedor Júnior / Estágio** ou **Suporte de TI**.
 
 ---
 
